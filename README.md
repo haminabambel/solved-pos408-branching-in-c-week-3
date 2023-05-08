@@ -1,0 +1,11 @@
+Download Link: https://assignmentchef.com/product/solved-pos408-branching-in-c-week-3
+<br>
+5/5 - (7 votes)
+
+The Software Development Company now requests you enhance the C# console program to display additional data items for all the software developers’ displays:
+
+For this week’s assignment, build on the Week Two Individual Assignment, “Adding Variables,” by asking the user to enter the names, ZIP Codes, and monthly gross pay of three software developers. The program should display on the console the software developer name, ZIP Code, monthly gross pay, and taxes paid for that month. Taxes are set at 7% of the monthly gross pay. The program should also display the annual gross pay and annual taxes of all three software developers.
+
+Using Visual Studio® and C# programming concepts, write a program to meet the specifications of the company’s request. The program should have the following characteristics:
+
+Compile and Execute without errorsMeets specifications by displaying on the console a welcome message along with the following information on all three software developers:Software developer nameZIP CodeGross monthly payMonthly TaxesAnnual gross payAnnual taxesLogic flow is clear, concise, and effectiveUser inputs and outputs should be clear on screenThe program code should laid out with appropriate indentation to show program structureIdentifiers logically describe useNaming conventions are consistentComments and headers to explain processing that is not obviousConstraints for assignments in this course: Collect all data and store it as the user enters it. When all the data is collected, display the data and any calculated data on the console. Data displayed on the console must be correctly labelled so that the user will be able to understand what it means. After all data has been displayed, the program will prompt the user to press ENTER to continue, and will allow the program to finish (and the console to close), only after the user has pressed the key to dismiss the program.
